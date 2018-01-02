@@ -296,3 +296,78 @@ body{
      }
  }
 
+.markdown-body h1 {
+    font-size: 20pt;
+    font-family: Arial;
+    color: #000000;
+    background-color: transparent;
+    font-weight: 700;
+    font-style: normal;
+    font-variant: normal;
+    text-decoration: none;
+    vertical-align: baseline;
+    border-bottom: none;
+}
+
+.markdown-body h2 {
+    font-size: 16pt;
+    font-family: Arial;
+    color: #000000;
+    background-color: transparent;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-decoration: none;
+    vertical-align: baseline;
+    border-bottom: none;
+}
+
+.markdown-body p {
+    font-size: 11pt;
+    font-family: Arial;
+    color: #000000;
+    background-color: transparent;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-decoration: none;
+    vertical-align: baseline;
+}
+
+.markdown-body li {
+    font-size: 11pt;
+    font-family: Arial;
+    color: #000000;
+    background-color: transparent;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-decoration: none;
+    vertical-align: baseline;
+}
+
+.markdown-body code {
+    padding: 0;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    margin: 0;
+    font-size: 85%;
+    border-radius: 3px;
+    font-family: Courier New;
+    font-size: 11pt;
+    background-color: transparent;
+}
+
+.markdown-body pre code {
+    display: inline;
+    max-width: initial;
+    padding: 0;
+    margin: 0;
+    overflow: initial;
+    line-height: inherit;
+    word-wrap: normal;
+    background-color: transparent;
+    border: 0;
+    font-family: Courier New;
+    font-size: 11pt;
+}
