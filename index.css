@@ -296,3 +296,51 @@ body{
      }
  }
 
+.markdown-body h1 {
+    font-size: 20pt;
+    font-family: Arial;
+    color: #000000;
+    background-color: transparent;
+    font-weight: 700;
+    font-style: normal;
+    font-variant: normal;
+    text-decoration: none;
+    vertical-align: baseline;
+}
+
+.markdown-body h2 {
+    font-size: 16pt;
+    font-family: Arial;
+    color: #000000;
+    background-color: transparent;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-decoration: none;
+    vertical-align: baseline;
+    border-bottom: none;
+}
+
+.markdown-body p {
+    font-size: 11pt;
+    font-family: Arial;
+    color: #000000;
+    background-color: transparent;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-decoration: none;
+    vertical-align: baseline;
+}
+
+.markdown-body li {
+    font-size: 11pt;
+    font-family: Arial;
+    color: #000000;
+    background-color: transparent;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    text-decoration: none;
+    vertical-align: baseline;
+}
